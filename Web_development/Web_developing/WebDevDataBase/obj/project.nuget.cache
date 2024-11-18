@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "43lRJV/Db8Q=",
+  "dgSpecHash": "1AseRcpAS/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
+  "projectFilePath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cuzev\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.10\\microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
     "C:\\Users\\cuzev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512",

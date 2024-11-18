@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\webdevdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\webdevdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\disciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\webdev.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\webdev.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webaplication\\webaplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|solutionrelative:webaplication\\webaplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\idisciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\idisciplinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\web_developing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\web_developing\\web_developing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -33,6 +49,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webaplication\\services\\disciplineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|solutionrelative:webaplication\\services\\disciplineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\webdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\webdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\web_developing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\webdev.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\webdev.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\webdevdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\webdevdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webaplication\\webaplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|solutionrelative:webaplication\\webaplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webaplication\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,44 +87,8 @@
       "RelativeMoniker": "D:0:0:{5EF8C138-E009-490C-BFFC-18042D5D84AA}|WebAplication\\WebAplication.csproj|solutionrelative:webaplication\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\webdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\webdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdevdatabase\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\models\\_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\models\\_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\webdev.core\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\web_development\\web_developing\\web_developing\\controllers\\request\\teacherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,211 +178,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebAplication.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\WebAplication.csproj",
-              "RelativeDocumentMoniker": "WebAplication\\WebAplication.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\WebAplication.csproj*",
-              "RelativeToolTip": "WebAplication\\WebAplication.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:40:20.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDisciplineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
-              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
-              "RelativeToolTip": "WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:48:17.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Web_developing.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
-              "RelativeDocumentMoniker": "Web_developing\\Web_developing.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj*",
-              "RelativeToolTip": "Web_developing\\Web_developing.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:33:45.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebDev.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
-              "RelativeDocumentMoniker": "WebDev.Core\\WebDev.Core.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj*",
-              "RelativeToolTip": "WebDev.Core\\WebDev.Core.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:37:47.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Program.cs",
-              "RelativeDocumentMoniker": "Web_developing\\Program.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Program.cs*",
-              "RelativeToolTip": "Web_developing\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:31:19.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebDevDataBase.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
-              "RelativeDocumentMoniker": "WebDevDataBase\\WebDevDataBase.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj*",
-              "RelativeToolTip": "WebDevDataBase\\WebDevDataBase.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T18:06:24.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "DisciplineRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\DisciplineRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\DisciplineRepository.cs",
               "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\DisciplineRepository.cs",
               "RelativeToolTip": "WebDevDataBase\\Repositories\\DisciplineRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T14:14:28.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DisciplineServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\DisciplineServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\DisciplineServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\DisciplineServices.cs*",
-              "RelativeToolTip": "WebAplication\\Services\\DisciplineServices.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:27.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GroupServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\GroupServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\GroupServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\GroupServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\GroupServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:58.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\TaskServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\TaskServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:15.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TeacherServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TeacherServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\TeacherServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TeacherServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\TeacherServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:53.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StudentServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\StudentServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\StudentServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:42.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TeacherRepository.cs",
-              "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TeacherRepository.cs",
-              "RelativeToolTip": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:21:19.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\TaskRepository.cs",
               "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TaskRepository.cs",
               "RelativeToolTip": "WebDevDataBase\\Repositories\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:37:53.042Z"
+              "WhenOpened": "2024-11-18T13:37:53.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "WebDevDataBase\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:05:57.202Z"
+              "WhenOpened": "2024-11-12T18:05:57.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "GroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\GroupRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\GroupRepository.cs",
               "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\GroupRepository.cs",
               "RelativeToolTip": "WebDevDataBase\\Repositories\\GroupRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:34:35.238Z"
+              "WhenOpened": "2024-11-12T20:34:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "WebDev.Core\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:54:01.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:54:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:21:19.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "WebDev.Core\\Interfaces\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:54:11.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDisciplineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
+              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
+              "RelativeToolTip": "WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:48:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web_developing.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
+              "RelativeDocumentMoniker": "Web_developing\\Web_developing.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
+              "RelativeToolTip": "Web_developing\\Web_developing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T14:33:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisciplineServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\DisciplineServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\DisciplineServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\DisciplineServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\DisciplineServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:38:27.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -399,7 +338,124 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "WebDev.Core\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:53:57.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Program.cs",
+              "RelativeDocumentMoniker": "Web_developing\\Program.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\Web_developing\\Program.cs",
+              "RelativeToolTip": "Web_developing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:31:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebDev.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
+              "RelativeDocumentMoniker": "WebDev.Core\\WebDev.Core.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
+              "RelativeToolTip": "WebDev.Core\\WebDev.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T14:37:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebDevDataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
+              "RelativeDocumentMoniker": "WebDevDataBase\\WebDevDataBase.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
+              "RelativeToolTip": "WebDevDataBase\\WebDevDataBase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T18:06:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAplication.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\WebAplication.csproj",
+              "RelativeDocumentMoniker": "WebAplication\\WebAplication.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\WebAplication.csproj",
+              "RelativeToolTip": "WebAplication\\WebAplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T14:40:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "GroupServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\GroupServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\GroupServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\GroupServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\GroupServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:38:58.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\TaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:38:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TeacherServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\TeacherServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\TeacherServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\TeacherServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:37:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:37:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "_Task.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Models\\_Task.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\_Task.cs",
@@ -407,55 +463,8 @@
               "RelativeToolTip": "WebDev.Core\\Models\\_Task.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:41:32.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IGroupRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IGroupRepository.cs",
-              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IGroupRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IGroupRepository.cs",
-              "RelativeToolTip": "WebDev.Core\\Interfaces\\IGroupRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:53:57.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "WebDev.Core\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:54:01.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskRepository.cs",
-              "RelativeToolTip": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:54:04.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ITeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherRepository.cs",
-              "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITeacherRepository.cs",
-              "ToolTip": "C:\\Users\\cuzev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherRepository.cs",
-              "RelativeToolTip": "WebDev.Core\\Interfaces\\ITeacherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:54:11.264Z"
+              "WhenOpened": "2024-11-12T14:41:32.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -467,7 +476,8 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\TeacherRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:37:50.228Z"
+              "WhenOpened": "2024-11-12T18:37:50.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -479,7 +489,8 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\TaskRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:45:23.543Z"
+              "WhenOpened": "2024-11-18T13:45:23.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -491,7 +502,8 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\StudentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:30:34.733Z"
+              "WhenOpened": "2024-11-12T20:30:34.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -503,7 +515,8 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\GroupRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:30:39.587Z"
+              "WhenOpened": "2024-11-18T13:30:39.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -515,7 +528,8 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\DisciplineRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:26:26.265Z"
+              "WhenOpened": "2024-11-18T14:26:26.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -527,7 +541,8 @@
               "RelativeToolTip": "WebDevDataBase\\Configurations\\DisciplineConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:03:49.534Z"
+              "WhenOpened": "2024-11-12T18:03:49.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -539,7 +554,8 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\DisciplineEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:39:01.351Z"
+              "WhenOpened": "2024-11-12T17:39:01.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -551,7 +567,8 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Discipline.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:42:30.679Z"
+              "WhenOpened": "2024-11-12T14:42:30.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -563,7 +580,8 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\GroupEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:38:40.169Z"
+              "WhenOpened": "2024-11-12T17:38:40.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -575,7 +593,8 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:25:57.244Z"
+              "WhenOpened": "2024-11-12T17:25:57.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -587,7 +606,8 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:41:17.944Z"
+              "WhenOpened": "2024-11-12T14:41:17.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -599,7 +619,8 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\TaskEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:38:23.516Z"
+              "WhenOpened": "2024-11-12T17:38:23.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -611,7 +632,8 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:41:08.056Z"
+              "WhenOpened": "2024-11-12T14:41:08.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -623,7 +645,8 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\TeacherEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:38:07.746Z"
+              "WhenOpened": "2024-11-12T17:38:07.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -635,7 +658,8 @@
               "RelativeToolTip": "WebDevDataBase\\Configurations\\TaskConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:56:48.012Z"
+              "WhenOpened": "2024-11-12T17:56:48.012Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -647,7 +671,8 @@
               "RelativeToolTip": "WebDevDataBase\\Configurations\\GroupConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:51:26.269Z"
+              "WhenOpened": "2024-11-12T17:51:26.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -659,7 +684,8 @@
               "RelativeToolTip": "WebDevDataBase\\Configurations\\TeacherConfiguraton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:47:53.827Z"
+              "WhenOpened": "2024-11-12T17:47:53.827Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -671,7 +697,8 @@
               "RelativeToolTip": "WebDevDataBase\\Configurations\\StudentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:43:42.528Z"
+              "WhenOpened": "2024-11-12T17:43:42.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -683,7 +710,8 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\StudentEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:37:52.29Z"
+              "WhenOpened": "2024-11-12T17:37:52.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -695,7 +723,8 @@
               "RelativeToolTip": "Web_developing\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T14:31:20.861Z"
+              "WhenOpened": "2024-11-12T14:31:20.861Z",
+              "EditorCaption": ""
             }
           ]
         }

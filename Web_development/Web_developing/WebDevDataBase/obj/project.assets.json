@@ -583,11 +583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
+      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
       "projectName": "WebDevDataBase",
-      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
+      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
       "packagesPath": "C:\\Users\\cuzev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDevDataBase\\obj\\",
+      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Shared\\NuGetPackages"
@@ -608,8 +608,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj": {
-              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj"
+            "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj": {
+              "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj"
             }
           }
         }

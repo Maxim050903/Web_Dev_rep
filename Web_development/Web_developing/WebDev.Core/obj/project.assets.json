@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
+      "projectUniqueName": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
       "projectName": "WebDev.Core",
-      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
+      "projectPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
       "packagesPath": "C:\\Users\\cuzev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\Web_development\\Web_developing\\WebDev.Core\\obj\\",
+      "outputPath": "C:\\Users\\cuzev\\OneDrive\\Рабочий стол\\gitrepository\\Web_Dev_Rep\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Shared\\NuGetPackages"
