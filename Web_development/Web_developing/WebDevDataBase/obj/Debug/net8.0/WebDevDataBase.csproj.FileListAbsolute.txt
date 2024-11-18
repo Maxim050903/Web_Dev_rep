@@ -1,0 +1,5 @@
+C:\Users\cuzev\OneDrive\Рабочий стол\Web_development\Web_developing\WebDevDataBase\obj\Debug\net8.0\WebDevDataBase.csproj.AssemblyReference.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Web_development\Web_developing\WebDevDataBase\obj\Debug\net8.0\WebDevDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuzev\OneDrive\Рабочий стол\Web_development\Web_developing\WebDevDataBase\obj\Debug\net8.0\WebDevDataBase.AssemblyInfoInputs.cache
+C:\Users\cuzev\OneDrive\Рабочий стол\Web_development\Web_developing\WebDevDataBase\obj\Debug\net8.0\WebDevDataBase.AssemblyInfo.cs
+C:\Users\cuzev\OneDrive\Рабочий стол\Web_development\Web_developing\WebDevDataBase\obj\Debug\net8.0\WebDevDataBase.csproj.CoreCompileInputs.cache
