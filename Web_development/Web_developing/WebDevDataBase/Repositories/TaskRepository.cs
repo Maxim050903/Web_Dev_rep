@@ -25,17 +25,17 @@ namespace WebDevDataBase.Repositories
             return Tasks;
         }
 
-        public async Task<Guid> CreateTaskForGroup(Guid GroupId, DateTime DateCreate, DateTime DateFinish, string Description, Guid idDiscipline, Guid idTeacher)
+        public async Task<Guid> CreateTaskForGroup(_Task task)
         {
             var TaskEntities = new TaskEntity()
             {
                 id = Guid.NewGuid(),
-                DateCreate = DateCreate,
-                DateFinish = DateFinish,
-                Description = Description,
-                idDiscipline = idDiscipline,
-                idGroup = GroupId,
-                idTeacher = idTeacher
+                DateCreate = task.DateCreate,
+                DateFinish = task.DateFinish,
+                Description = task.Description,
+                idDiscipline = task.idDiscipline,
+                idGroup = task.idGroup,
+                idTeacher = task.idTeacher
             };
 
             await _context.Tasks.AddAsync(TaskEntities);
@@ -55,17 +55,17 @@ namespace WebDevDataBase.Repositories
             return id;
         }
 
-        public async Task<Guid> UpdateTask(Guid id, DateTime DateCreate, DateTime DateFinish, string Description, Guid idDiscipline, Guid idTeacher)
-        {
+        public async Task<Guid> UpdateTask(Guid id, DateTime DateCreate, DateTime DateFinish, string Description, Guid idDiscipline,Guid idGroup ,Guid idTeacher)
+        {    
             await _context.Tasks
                 .Where(x => x.id == id)
                 .ExecuteUpdateAsync(t => t
-                .SetProperty(b => b.DateCreate, DateCreate)
-                .SetProperty(b => b.DateFinish, DateFinish)
-                .SetProperty(b => b.Description, Description)
-                .SetProperty(b => b.idDiscipline, idDiscipline)
-                .SetProperty(b => b.idGroup, idGroup)
-                .SetProperty(b => b.idTeacher, idTeacher));
+                    .SetProperty(b => b.DateCreate, b => DateCreate)
+                    .SetProperty(b => b.DateFinish,b => DateFinish)
+                    .SetProperty(b => b.Description, b => Description)
+                    .SetProperty(b => b.idDiscipline, b => idDiscipline)
+                    .SetProperty(b => b.idGroup, b  =>  idGroup)
+                    .SetProperty(b => b.idTeacher, b => idTeacher));
 
             await _context.SaveChangesAsync();
 

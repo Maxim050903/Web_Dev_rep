@@ -50,7 +50,7 @@ namespace WebDevDataBase.Repositories
                 .Where(x => x.id == id)
                 .ExecuteUpdateAsync(s => s
                     .SetProperty(b => b.Name, b => Name)
-                    .SetProperty(b => b.SecondName, b => SeconName)
+                    .SetProperty(b => b.SecondName, b => SecondName)
                     .SetProperty(b => b.IndividualNumber, b => IndividualNumber)
                     .SetProperty(b => b.Password, b => Password));
 

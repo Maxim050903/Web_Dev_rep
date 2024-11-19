@@ -8,6 +8,6 @@ namespace WebDev.Core.Interfaces
         Task<Guid> CreateStudent(Student student);
         Task<Guid> DeleteStudent(Guid id);
         Task<List<Student>> GetStudents();
-        Task<Guid> UpdateStudent(Guid id, string Name, string SecondName, ulong IndividualNumber, string GroupNumber, string Password);
+        Task<Guid> UpdateStudent(Guid id, string Name, string SecondName, ulong IndividualNumber,string GroupName, string GroupNumber, string Password);
     }
 }

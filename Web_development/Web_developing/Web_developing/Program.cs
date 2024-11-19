@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using WebAplication.Services;
 using WebDev.Core.Interfaces;
 using WebDevDataBase;
 using WebDevDataBase.Repositories;
@@ -23,6 +24,12 @@ builder.Services.AddScoped<IGroupRepository, GroupRepository>();
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 builder.Services.AddScoped<ITeacherRepository, TeacherRepository>();
+
+builder.Services.AddScoped<IStudentServices, StudentServices>();
+builder.Services.AddScoped<IDisciplineServices, DisciplineServices>();
+builder.Services.AddScoped<ITeacherServices, TeacherServices>();
+builder.Services.AddScoped<ITaskServices, TaskServices>();
+builder.Services.AddScoped<IGroupServices, GroupServices>();
 
 
 

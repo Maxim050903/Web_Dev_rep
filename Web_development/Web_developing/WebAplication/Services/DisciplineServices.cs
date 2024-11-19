@@ -3,7 +3,7 @@ using WebDev.Core.Models;
 
 namespace WebAplication.Services
 {
-    public class DisciplineServices
+    public class DisciplineServices : IDisciplineServices
     {
         private readonly IDisciplineRepository _disciplineRepository;
 
@@ -22,14 +22,14 @@ namespace WebAplication.Services
             return await _disciplineRepository.CreateDiscepline(discipline);
         }
 
-        public async Task<Guid> DeleteDiscipline (Guid id)
+        public async Task<Guid> DeleteDiscipline(Guid id)
         {
             return await _disciplineRepository.DeleteDiscepline(id);
         }
 
-        public async Task<Guid> UpdateDiscipline(Guid id, DisciplineRequest request)
+        public async Task<Guid> UpdateDiscipline(Guid id, Guid idTeacher, Guid idGroup, string Name)
         {
-            return await _disciplineRepository.UpdateDiscepline(id, request);
+            return await _disciplineRepository.UpdateDiscepline(id, idTeacher, idGroup, Name);
         }
 
     }

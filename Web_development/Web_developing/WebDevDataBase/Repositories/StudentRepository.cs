@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Reflection.Metadata;
 using WebDev.Core.Interfaces;
 using WebDev.Core.Models;
 using WebDevDataBase.Entities;
@@ -42,7 +43,7 @@ namespace WebDevDataBase.Repositories
             return student.id;
         }
 
-        public async Task<Guid> UpdateStudent(Guid id, string Name, string SecondName, ulong IndividualNumber, string GroupNumber, string Password)
+        public async Task<Guid> UpdateStudent(Guid id, string Name, string SecondName, ulong IndividualNumber,string GroupName ,string GroupNumber, string Password)
         {
             await _context.Students
                 .Where(x => x.id == id)

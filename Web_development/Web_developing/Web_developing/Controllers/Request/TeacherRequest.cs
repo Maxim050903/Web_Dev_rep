@@ -4,5 +4,5 @@
         (string Name,
         string SeconName,
         ulong IndividualNumber,
-        string password);
+        string Password);
 }

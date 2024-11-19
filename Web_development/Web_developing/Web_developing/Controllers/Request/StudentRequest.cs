@@ -5,5 +5,6 @@
     string SecondName,
     string GroupName,
     ulong IndividualNumber,
+    string GroupNumber,
     string Password);
 }

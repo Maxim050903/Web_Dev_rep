@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
 using WebDev.Core.Models;
 using WebDevDataBase.Entities;
 using WebDev.Core.Interfaces;
