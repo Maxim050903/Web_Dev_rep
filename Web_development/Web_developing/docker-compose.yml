@@ -1,0 +1,6 @@
+services:
+  web_developing:
+    image: ${DOCKER_REGISTRY-}webdeveloping
+    build:
+      context: .
+      dockerfile: Web_developing/Dockerfile

@@ -3,6 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\web_developing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\web_developing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cuzev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -198,20 +221,12 @@
       "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\controllers\\request\\grouprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\webdevdatabase\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|solutionrelative:webdevdatabase\\configurations\\disciplineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\webdev.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59F1541B-1A7B-4FB8-A89D-AC42719EFC24}|WebDev.Core\\WebDev.Core.csproj|solutionrelative:webdev.core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\web_developing\\web_developing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B992FB14-FC5E-4063-B55F-225965233F1E}|Web_developing\\Web_developing.csproj|solutionrelative:web_developing\\web_developing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D00D9DD0-371A-4058-9D47-ABF94A6B61B5}|WebDevDataBase\\WebDevDataBase.csproj|c:\\users\\cuzev\\desktop\\gitrepository\\web_dev_rep\\web_development\\web_developing\\webdevdatabase\\migrations\\20241119180736_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -266,58 +281,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "Web_developing\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "Web_developing\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:47:04.177Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Dockerfile",
+              "RelativeDocumentMoniker": "Web_developing\\Dockerfile",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Dockerfile",
+              "RelativeToolTip": "Web_developing\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-23T20:02:06.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web_developing\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web_developing\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T19:52:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\cuzev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\cuzev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAIMAAAAAAAAAAIAwwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-23T19:31:08.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TaskServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\TaskServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\TaskServices.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:15.205Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_developing\\appsettings.json",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.json",
+              "RelativeToolTip": "Web_developing\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T18:47:24.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Program.cs",
-              "RelativeDocumentMoniker": "Web_developing\\Program.cs",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Program.cs",
-              "RelativeToolTip": "Web_developing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:31:19.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentServices.cs",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
-              "RelativeDocumentMoniker": "WebAplication\\Services\\StudentServices.cs",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
-              "RelativeToolTip": "WebAplication\\Services\\StudentServices.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:42.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "StudentRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\StudentRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\StudentRequest.cs",
@@ -325,12 +340,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\StudentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T20:30:34.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T20:30:34.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\StudentRepository.cs",
@@ -338,12 +352,11 @@
               "RelativeToolTip": "WebDevDataBase\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAEgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:05:57.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T18:05:57.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\TaskRepository.cs",
@@ -351,12 +364,74 @@
               "RelativeToolTip": "WebDevDataBase\\Repositories\\TaskRepository.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAjwCwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:37:53.042Z",
+              "WhenOpened": "2024-11-18T13:37:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Web_developing\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.Development.json",
+              "RelativeToolTip": "Web_developing\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T14:31:20.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "Web_developing.csproj",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
+              "RelativeDocumentMoniker": "Web_developing\\Web_developing.csproj",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
+              "RelativeToolTip": "Web_developing\\Web_developing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T14:33:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\StudentServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\StudentServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:37:42.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Program.cs",
+              "RelativeDocumentMoniker": "Web_developing\\Program.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Program.cs",
+              "RelativeToolTip": "Web_developing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:31:19.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Web_developing\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Web_developing\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:47:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\AppData\\Local\\SourceServer\\a66c1eaaeb1d377d908ed5c9c7da3be218c8c7f0119a639c875493cad9807f01\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\a66c1eaaeb1d377d908ed5c9c7da3be218c8c7f0119a639c875493cad9807f01\\Web_development\\Web_developing\\Web_developing\\Controllers\\TaskController.cs",
@@ -369,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DisciplineRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\DisciplineRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\DisciplineRepository.cs",
@@ -377,12 +452,11 @@
               "RelativeToolTip": "WebDevDataBase\\Repositories\\DisciplineRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:14:28.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T14:14:28.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DisciplineServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\DisciplineServices.cs",
               "RelativeDocumentMoniker": "WebAplication\\Services\\DisciplineServices.cs",
@@ -390,12 +464,23 @@
               "RelativeToolTip": "WebAplication\\Services\\DisciplineServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:38:27.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T15:38:27.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "WebAplication\\Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\TaskServices.cs",
+              "RelativeToolTip": "WebAplication\\Services\\TaskServices.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:38:15.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "TaskResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\TaskResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\TaskResponse.cs",
@@ -403,12 +488,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Response\\TaskResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T16:20:41.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T16:20:41.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Discipline.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Models\\Discipline.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\Discipline.cs",
@@ -416,12 +500,11 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Discipline.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:42:30.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T14:42:30.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
@@ -429,12 +512,11 @@
               "RelativeToolTip": "WebDev.Core\\Interfaces\\ITaskRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T14:54:04.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T14:54:04.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "TaskEntity.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Entities\\TaskEntity.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Entities\\TaskEntity.cs",
@@ -442,12 +524,11 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\TaskEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:38:23.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:38:23.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "_Task.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Models\\_Task.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\_Task.cs",
@@ -455,12 +536,11 @@
               "RelativeToolTip": "WebDev.Core\\Models\\_Task.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:41:32.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T14:41:32.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "WebDevDBcontext.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDBcontext.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\WebDevDBcontext.cs",
@@ -468,12 +548,11 @@
               "RelativeToolTip": "WebDevDataBase\\WebDevDBcontext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:06:44.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T18:06:44.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\StudentController.cs",
@@ -481,12 +560,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T11:51:43.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T11:51:43.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "TaskRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\TaskRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\TaskRequest.cs",
@@ -494,12 +572,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Request\\TaskRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:45:23.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:45:23.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\Teacher.cs",
@@ -507,12 +584,11 @@
               "RelativeToolTip": "WebDev.Core\\Models\\Teacher.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:41:17.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T14:41:17.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "TeacherEntity.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Entities\\TeacherEntity.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Entities\\TeacherEntity.cs",
@@ -520,12 +596,11 @@
               "RelativeToolTip": "WebDevDataBase\\Entities\\TeacherEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T17:38:07.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T17:38:07.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "AuthResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\AuthResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\AuthResponse.cs",
@@ -533,12 +608,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\Response\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:57:25.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:57:25.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "TeacherRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\TeacherRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
@@ -546,12 +620,11 @@
               "RelativeToolTip": "WebDevDataBase\\Repositories\\TeacherRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:21:19.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T18:21:19.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "TeacherServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\TeacherServices.cs",
               "RelativeDocumentMoniker": "WebAplication\\Services\\TeacherServices.cs",
@@ -559,12 +632,11 @@
               "RelativeToolTip": "WebAplication\\Services\\TeacherServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T15:37:53.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T15:37:53.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "AuthContoller.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\AuthContoller.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\AuthContoller.cs",
@@ -572,12 +644,11 @@
               "RelativeToolTip": "Web_developing\\Controllers\\AuthContoller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:28:07.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:28:07.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "ITaskServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITaskServices.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITaskServices.cs",
@@ -589,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "DisciplineResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\DisciplineResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\DisciplineResponse.cs",
@@ -601,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "DisciplineController.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\DisciplineController.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\DisciplineController.cs",
@@ -613,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "GroupController.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\GroupController.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\GroupController.cs",
@@ -625,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "DisciplineRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\DisciplineRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\DisciplineRequest.cs",
@@ -637,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "GroupResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\GroupResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\GroupResponse.cs",
@@ -649,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "IDisciplineServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineServices.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IDisciplineServices.cs",
@@ -661,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "IDisciplineRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IDisciplineRepository.cs",
@@ -673,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "DisciplineEntity.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Entities\\DisciplineEntity.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Entities\\DisciplineEntity.cs",
@@ -685,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "GroupEntity.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Entities\\GroupEntity.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Entities\\GroupEntity.cs",
@@ -697,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "20241119180736_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Migrations\\20241119180736_InitialCreate.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Migrations\\20241119180736_InitialCreate.cs",
@@ -709,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "WebDevDBcontextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Migrations\\WebDevDBcontextModelSnapshot.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Migrations\\WebDevDBcontextModelSnapshot.cs",
@@ -721,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\TeacherController.cs",
@@ -733,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "TeacherResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\TeacherResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\TeacherResponse.cs",
@@ -745,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "TeacherRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\TeacherRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\TeacherRequest.cs",
@@ -757,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "AuthRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\AuthRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\AuthRequest.cs",
@@ -769,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "StudentResponse.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Response\\StudentResponse.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Response\\StudentResponse.cs",
@@ -781,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "ITeacherRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherRepository.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITeacherRepository.cs",
@@ -793,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "IStudentServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentServices.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IStudentServices.cs",
@@ -805,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IStudentRepository.cs",
@@ -817,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "StudentEntity.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Entities\\StudentEntity.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Entities\\StudentEntity.cs",
@@ -829,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "WebDevDataBase.csproj",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\WebDevDataBase.csproj",
               "RelativeDocumentMoniker": "WebDevDataBase\\WebDevDataBase.csproj",
@@ -837,11 +908,12 @@
               "RelativeToolTip": "WebDevDataBase\\WebDevDataBase.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T18:06:24.017Z"
+              "WhenOpened": "2024-11-12T18:06:24.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "ITeacherServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\ITeacherServices.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\ITeacherServices.cs",
@@ -853,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "GroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Repositories\\GroupRepository.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Repositories\\GroupRepository.cs",
@@ -865,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "GroupRequest.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Controllers\\Request\\GroupRequest.cs",
               "RelativeDocumentMoniker": "Web_developing\\Controllers\\Request\\GroupRequest.cs",
@@ -877,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "DisciplineConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Configurations\\DisciplineConfiguration.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Configurations\\DisciplineConfiguration.cs",
@@ -889,19 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Web_developing\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\appsettings.Development.json",
-              "RelativeToolTip": "Web_developing\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-12T14:31:20.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 56,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\Student.cs",
@@ -913,19 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Web_developing.csproj",
-              "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
-              "RelativeDocumentMoniker": "Web_developing\\Web_developing.csproj",
-              "ToolTip": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing\\Web_developing.csproj",
-              "RelativeToolTip": "Web_developing\\Web_developing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:33:45.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "20241119180736_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Migrations\\20241119180736_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Migrations\\20241119180736_InitialCreate.Designer.cs",
@@ -937,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Models\\Group.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Models\\Group.cs",
@@ -949,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "GroupServices.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\Services\\GroupServices.cs",
               "RelativeDocumentMoniker": "WebAplication\\Services\\GroupServices.cs",
@@ -961,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "WebAplication.csproj",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebAplication\\WebAplication.csproj",
               "RelativeDocumentMoniker": "WebAplication\\WebAplication.csproj",
@@ -969,11 +1017,12 @@
               "RelativeToolTip": "WebAplication\\WebAplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:40:20.39Z"
+              "WhenOpened": "2024-11-12T14:40:20.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "IGroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\Interfaces\\IGroupRepository.cs",
               "RelativeDocumentMoniker": "WebDev.Core\\Interfaces\\IGroupRepository.cs",
@@ -985,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "WebDev.Core.csproj",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDev.Core\\WebDev.Core.csproj",
               "RelativeDocumentMoniker": "WebDev.Core\\WebDev.Core.csproj",
@@ -993,11 +1042,12 @@
               "RelativeToolTip": "WebDev.Core\\WebDev.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-12T14:37:47.574Z"
+              "WhenOpened": "2024-11-12T14:37:47.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "TaskConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Configurations\\TaskConfiguration.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Configurations\\TaskConfiguration.cs",
@@ -1009,7 +1059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "GroupConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Configurations\\GroupConfiguration.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Configurations\\GroupConfiguration.cs",
@@ -1021,7 +1071,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "TeacherConfiguraton.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Configurations\\TeacherConfiguraton.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Configurations\\TeacherConfiguraton.cs",
@@ -1033,7 +1083,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\WebDevDataBase\\Configurations\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "WebDevDataBase\\Configurations\\StudentConfiguration.cs",

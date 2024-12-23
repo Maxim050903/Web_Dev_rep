@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Web_development/Web_developing/Web_developing/Dockerfile
+    ports:
+      - "5000:7260"
+    depends_on:
+      - db
+    environment:
+      ConnectionStrings__DefaultConnection: "Host=postgres;Port=5432;Database=webdb;Username=maxim;Password=maxim"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Web_dev_front/web_front/Dockerfile
+    ports:
+      - "4200:80"
+
+  db:
+    image: postgres:latest
+    container_name: web_cnotainer
+    environment:
+      POSTGRES_DB: web_db     
+      POSTGRES_USER: maxim         
+      POSTGRES_PASSWORD: maxim   
+    ports:
+      - "5432:5432"                        
+    volumes:
+      - pg_data:/var/lib/postgresql/data   
+
+volumes:
+  pg_data:
