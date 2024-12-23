@@ -17,6 +17,11 @@ namespace WebAplication.Services
             return await _disciplineRepository.GetDisciplinesForTeacher(idTeacher);
         }
 
+        public async Task<Discipline> GetDisciplineForId(Guid id)
+        {
+            return await _disciplineRepository.GetDisciplinesForId(id);
+        }
+
         public async Task<Guid> CreateDiscipline(Discipline discipline)
         {
             return await _disciplineRepository.CreateDiscepline(discipline);
@@ -27,7 +32,7 @@ namespace WebAplication.Services
             return await _disciplineRepository.DeleteDiscepline(id);
         }
 
-        public async Task<Guid> UpdateDiscipline(Guid id, Guid idTeacher, Guid idGroup, string Name)
+        public async Task<Guid> UpdateDiscipline(Guid id, Guid idTeacher, List<Guid> idGroup, string Name)
         {
             return await _disciplineRepository.UpdateDiscepline(id, idTeacher, idGroup, Name);
         }

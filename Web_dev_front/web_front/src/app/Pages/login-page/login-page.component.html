@@ -1,0 +1,24 @@
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Личный кабинет студента</title>
+</head>
+
+
+<body>
+    <div class="header">Личный кабинет студента</div>
+    <div class="container">
+      <form
+      class="login-form"
+      [formGroup] = "form"
+      (ngSubmit)="onSubmit()"
+      >
+        <input formControlName="username" type="number" placeholder="Логин" class="input-field">
+        <input formControlName="password" type="text" placeholder="Пароль" class="input-field">
+        <button type="submit" class="submit-button">Вход</button>
+      </form>
+      </div>
+</body>
+
+

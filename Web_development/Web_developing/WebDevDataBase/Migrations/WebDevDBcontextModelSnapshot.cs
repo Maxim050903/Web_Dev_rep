@@ -33,8 +33,9 @@ namespace WebDevDataBase.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<Guid>("idGroup")
-                        .HasColumnType("uuid");
+                    b.PrimitiveCollection<List<Guid>>("idGroups")
+                        .IsRequired()
+                        .HasColumnType("uuid[]");
 
                     b.Property<Guid>("idTeacher")
                         .HasColumnType("uuid");

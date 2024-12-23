@@ -15,6 +15,14 @@ namespace WebDevDataBase.Repositories
             _context = dbcontext;
         }
 
+        public async Task<(bool,Guid)> LogInStudent(ulong Number, string password)
+        {
+            var StudentEntity = await _context.Students.FirstOrDefaultAsync(x => x.IndividualNumber == Number && x.Password == password);
+
+            return StudentEntity != null ? (true,StudentEntity.id) : (false,Guid.Empty);
+        }
+
+
         public async Task<List<Student>> GetStudents()
         {
             var StudentEntity = await _context.Students

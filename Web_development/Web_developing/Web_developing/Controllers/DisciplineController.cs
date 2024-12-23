@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 using Web_developing.Controllers.Request;
 using Web_developing.Controllers.Response;
 using WebAplication.Services;
@@ -11,18 +12,34 @@ namespace Web_developing.Controllers
     public class DisciplineController:ControllerBase
     {
         private readonly IDisciplineServices _disciplineServices;
+        private readonly IGroupServices _groupServices;
 
-        public DisciplineController(IDisciplineServices disciplineServices)
+        public DisciplineController(IDisciplineServices disciplineServices, IGroupServices groupServices)
         {
             _disciplineServices = disciplineServices;
+            _groupServices = groupServices;
         }
 
-        [HttpGet]
+        [HttpGet("{idTeacher}")]
         public async Task<ActionResult<List<DisciplineResponse>>> GetDisciplines(Guid idTeacher)
         {
             var disciplines = await _disciplineServices.GetAllDisciplineForTeacher(idTeacher);
-            var response = disciplines.Select(g => new DisciplineResponse(g.id,g.Name,g.idTeacher,g.idGroup));
-            return Ok(response);
+            var groups = await _groupServices.GetAllGroups();
+            List<DisciplineResponse> answer = new List<DisciplineResponse>();
+            foreach (var discipline in disciplines)
+            {
+                List<string> Groups = new List<string>();
+                foreach (var groupid in discipline.idGroups)
+                {
+                    foreach (var group in groups)
+                    {
+                        if (group.id ==  groupid)
+                            Groups.Add(group.Name);
+                    }
+                }
+                answer.Add(new DisciplineResponse(discipline.id, discipline.Name, discipline.idTeacher,Groups));
+            }
+            return Ok(answer);
         }
 
         [HttpPost]

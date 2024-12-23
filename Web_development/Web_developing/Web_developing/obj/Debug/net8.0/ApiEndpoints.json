@@ -1,21 +1,78 @@
 [
   {
-    "ContainingType": "Web_developing.Controllers.DisciplineController",
-    "Method": "GetDisciplines",
-    "RelativePath": "Discipline",
+    "ContainingType": "Web_developing.Controllers.AuthController",
+    "Method": "LogIn",
+    "RelativePath": "Auth",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "idTeacher",
-        "Type": "System.Guid",
+        "Name": "IndividualNumber",
+        "Type": "System.UInt64",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Web_developing.Controllers.Response.DisciplineResponse, Web_developing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "Web_developing.Controllers.Response.AuthResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web_developing.Controllers.TaskController",
+    "Method": "GetTasksForDiscipline",
+    "RelativePath": "bydiscipline/{idDiscipline}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idDiscipline",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Web_developing.Controllers.Response.TaskResponseOne",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web_developing.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "createTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Web_developing.Controllers.Request.TaskRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -99,6 +156,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web_developing.Controllers.DisciplineController",
+    "Method": "GetDisciplines",
+    "RelativePath": "Discipline/{idTeacher}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idTeacher",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Web_developing.Controllers.Response.DisciplineResponse, Web_developing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -316,78 +399,21 @@
   },
   {
     "ContainingType": "Web_developing.Controllers.TaskController",
-    "Method": "GetStudents",
+    "Method": "GetTaskForStudent",
     "RelativePath": "Task",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "idGroup",
+        "Name": "StudentId",
         "Type": "System.Guid",
         "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Web_developing.Controllers.Response.TaskResponse, Web_developing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Web_developing.Controllers.TaskController",
-    "Method": "CreateTask",
-    "RelativePath": "Task",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "Web_developing.Controllers.Request.TaskRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Guid",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Web_developing.Controllers.TaskController",
-    "Method": "UpdateTask",
-    "RelativePath": "Task",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "update_id",
-        "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "request",
-        "Type": "Web_developing.Controllers.Request.TaskRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Guid",
+        "Type": "System.Collections.Generic.List\u00601[[Web_developing.Controllers.Response.TaskResponseForStiudentPage, Web_developing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -400,7 +426,7 @@
   {
     "ContainingType": "Web_developing.Controllers.TaskController",
     "Method": "DeleteTask",
-    "RelativePath": "Task",
+    "RelativePath": "Task/{delete_id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -408,7 +434,64 @@
       {
         "Name": "delete_id",
         "Type": "System.Guid",
-        "IsRequired": false
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web_developing.Controllers.TaskController",
+    "Method": "GetTask",
+    "RelativePath": "Task/{idTask}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idTask",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Web_developing.Controllers.Response.TaskResponseOne",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web_developing.Controllers.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "Task/{update_id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "update_id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Web_developing.Controllers.Request.TaskUpdateRequest",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [

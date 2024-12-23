@@ -4,5 +4,5 @@ public record DisciplineRequest
 (
     string Name,
     Guid idTeacher,
-    Guid idGroup 
+    List<Guid> idGroup 
     );

@@ -7,6 +7,7 @@ namespace WebAplication.Services
         Task<Guid> CreateDiscipline(Discipline discipline);
         Task<Guid> DeleteDiscipline(Guid id);
         Task<List<Discipline>> GetAllDisciplineForTeacher(Guid idTeacher);
-        Task<Guid> UpdateDiscipline(Guid id, Guid idTeacher, Guid idGroup, string Name);
+        Task<Guid> UpdateDiscipline(Guid id, Guid idTeacher, List<Guid> idGroup, string Name);
+        Task<Discipline> GetDisciplineForId(Guid id);
     }
 }

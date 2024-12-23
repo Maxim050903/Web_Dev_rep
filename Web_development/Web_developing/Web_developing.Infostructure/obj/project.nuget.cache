@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzUKc7Bb4NY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cuzev\\Desktop\\GitRepository\\Web_Dev_rep\\Web_development\\Web_developing\\Web_developing.Infostructure\\Web_developing.Infostructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cuzev\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

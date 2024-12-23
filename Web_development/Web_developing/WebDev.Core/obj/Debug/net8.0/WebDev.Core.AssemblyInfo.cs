@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDev.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bc6bdb27dae1c5355e3b3fcb4ef369f0ea5284")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdf718d6ffb2e89e00ff42c765d6c47823df869")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDev.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDev.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

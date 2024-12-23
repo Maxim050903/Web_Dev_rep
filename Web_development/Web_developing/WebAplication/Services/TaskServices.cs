@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -23,6 +24,21 @@ namespace WebAplication.Services
             return await _TaskRepository.GetTasksForGroup(id);
         }
 
+        public async Task<List<_Task>> GetTaskForDiscipline(Guid idDiscipline)
+        {
+            return await _TaskRepository.GetTaskForDiscipline(idDiscipline);
+        }
+
+        public async Task<List<_Task>> GetTasksForStudent(Guid id)
+        {
+            return await _TaskRepository.GetTasksForStudent(id);
+        }
+
+        public async Task<_Task> GetTask(Guid idTask)
+        {
+            return await _TaskRepository.GetTask(idTask);
+        }
+
         public async Task<Guid> CreateTask(_Task task)
         {
             return await _TaskRepository.CreateTaskForGroup(task);
@@ -37,5 +53,7 @@ namespace WebAplication.Services
         {
             return await _TaskRepository.UpdateTask(id, DateCreate, DateFinish, Description,idGroup, idDiscipline, idTeacher);
         }
+
+
     }
 }

@@ -1,0 +1,32 @@
+.task_card__wrapper {
+  display: grid;
+  grid-gap: 8px;
+}
+
+
+.toolbar {
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.toolbar .title {
+  font-size: 20px;
+  font-weight: bold;
+  font-display: flex;
+}
+
+.toolbar .links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+  font-size: 14px;
+  cursor:default;
+}
+
+.toolbar .links a:hover {
+  text-decoration: underline;
+}

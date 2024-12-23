@@ -14,6 +14,14 @@ namespace WebDevDataBase.Repositories
             _context = context;
         }
 
+        public async Task<(bool, Guid)> LogInTeacher(ulong Number, string password)
+        {
+            var TeacherEntity = await _context.Teachers.FirstOrDefaultAsync(x => x.IndividualNumber == Number && x.Password == password);
+
+            return TeacherEntity != null ? (true, TeacherEntity.id) : (false, Guid.Empty);
+        }
+
+
         public async Task<List<Teacher>> GetTeachers()
         {
             var TeacherEntity = await _context.Teachers
@@ -25,6 +33,16 @@ namespace WebDevDataBase.Repositories
 
             return Teachers;
         }
+
+        public async Task<Teacher> GetTeacher(Guid id)
+        {
+            var TeacherEntity = await _context.Teachers.FirstOrDefaultAsync(x => x.id == id);
+
+            var teacher = Teacher.CreateTeacher(TeacherEntity.id, TeacherEntity.Name, TeacherEntity.SecondName, TeacherEntity.IndividualNumber, TeacherEntity.Password).teacher;
+
+            return teacher;
+        }
+
 
         public async Task<Guid> CreateTeacher(Teacher teacher)
         {

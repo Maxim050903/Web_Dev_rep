@@ -1,0 +1,27 @@
+
+      <form
+      class="task-form"
+      [formGroup] = "form"
+      (ngSubmit)="onSubmit()"
+      >
+
+      <label for="subject">Наименование предмета </label>
+      <input type="text" class="input-field" value={{DisciplineName}} readonly>
+
+      @if(isCreate != 'true')
+      {
+      <label for="due-date">Необходимая дата выполнения </label>
+      <input formControlName="DateEnd" type="text" class="input-field" placeholder={{task.dateFinish}}>
+
+      <label for="description">Описание задачи </label>
+      <input formControlName="description" type="text" class="input-field" placeholder={{task.description}}>
+      }@else{
+      <label for="due-date">Необходимая дата выполнения </label>
+      <input formControlName="DateEnd" type="text" class="input-field">
+
+      <label for="description">Описание задачи </label>
+      <input formControlName="description" type="text" class="input-field">
+      }
+
+      <button type="submit" class="submit-button">Сохранить</button>
+      </form>

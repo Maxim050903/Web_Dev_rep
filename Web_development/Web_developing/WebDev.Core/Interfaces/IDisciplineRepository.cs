@@ -8,6 +8,7 @@ namespace WebDev.Core.Interfaces
         Task<Guid> CreateDiscepline(Discipline discipline);
         Task<Guid> DeleteDiscepline(Guid id);
         Task<List<Discipline>> GetDisciplinesForTeacher(Guid idTeacher);
-        Task<Guid> UpdateDiscepline(Guid id, Guid idTeacher, Guid idGroup, string Name);
+        Task<Guid> UpdateDiscepline(Guid id, Guid idTeacher, List<Guid> idGroups, string Name);
+        Task<Discipline> GetDisciplinesForId(Guid id);
     }
 }

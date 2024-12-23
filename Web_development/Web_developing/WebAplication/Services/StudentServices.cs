@@ -32,5 +32,10 @@ namespace WebAplication.Services
         {
             return await _StudentRepository.UpdateStudent(id, Name, SecondName, IndividualNumber, GroupName, GroupNumber, Password);
         }
+
+        public async Task<(bool, Guid)> LogInStudent(ulong Number, string password)
+        {
+            return await _StudentRepository.LogInStudent(Number, password);
+        }
     }
 }

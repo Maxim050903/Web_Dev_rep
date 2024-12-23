@@ -25,6 +25,51 @@ namespace WebDevDataBase.Repositories
             return Tasks;
         }
 
+
+        public async Task<List<_Task>> GetTaskForDiscipline(Guid idDiscipline)
+        {
+            var tasks = await _context.Tasks
+                .Where(x => x.idDiscipline == idDiscipline)
+                .ToListAsync();
+            var Tasks = tasks
+                .Select(b => _Task.CreateTask(b.id, b.DateCreate, b.DateFinish, b.Description, b.idDiscipline, b.idGroup, b.idTeacher).task)
+                .ToList();
+
+            return Tasks;
+        }
+
+        public async Task<_Task> GetTask(Guid idTask)
+        {
+            var TaskEntity = _context.Tasks.FirstOrDefaultAsync(x => x.id == idTask);
+
+            var Task_ = _Task.CreateTask
+                (TaskEntity.Result.id,
+                TaskEntity.Result.DateCreate,
+                TaskEntity.Result.DateFinish,
+                TaskEntity.Result.Description,
+                TaskEntity.Result.idDiscipline,
+                TaskEntity.Result.idGroup,
+                TaskEntity.Result.idTeacher);
+
+            return Task_.task;
+        }
+
+
+        public async Task<List<_Task>> GetTasksForStudent(Guid StudentId)
+        {
+            var GroupId = await _context.Groups.FirstOrDefaultAsync(x => x.id_Students.Contains(StudentId));
+
+            var TasksEntities = await _context.Tasks
+                 .Where(x => x.idGroup == GroupId.id)
+                 .ToListAsync();
+            var Tasks = TasksEntities
+                .Select(b => _Task.CreateTask(b.id, b.DateCreate, b.DateFinish, b.Description, b.idDiscipline, b.idGroup, b.idTeacher).task)
+                .ToList();
+            return Tasks;
+        }
+
+
+
         public async Task<Guid> CreateTaskForGroup(_Task task)
         {
             var TaskEntities = new TaskEntity()
@@ -47,7 +92,7 @@ namespace WebDevDataBase.Repositories
         public async Task<Guid> DeleteTask(Guid id)
         {
             await _context.Tasks
-                .Select(x => x.id)
+                .Where(x => x.id == id)
                 .ExecuteDeleteAsync();
 
             await _context.SaveChangesAsync();
@@ -55,7 +100,7 @@ namespace WebDevDataBase.Repositories
             return id;
         }
 
-        public async Task<Guid> UpdateTask(Guid id, DateTime DateCreate, DateTime DateFinish, string Description, Guid idDiscipline,Guid idGroup ,Guid idTeacher)
+        public async Task<Guid> UpdateTask(Guid id, DateTime DateCreate, DateTime DateFinish, string Description, Guid idGroup , Guid idDiscipline, Guid idTeacher)
         {    
             await _context.Tasks
                 .Where(x => x.id == id)

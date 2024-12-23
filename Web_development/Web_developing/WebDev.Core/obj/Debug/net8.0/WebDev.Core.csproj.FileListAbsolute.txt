@@ -15,3 +15,15 @@ C:\Users\cuzev\OneDrive\Рабочий стол\gitrepository\Web_Dev_Rep\Web_De
 C:\Users\cuzev\OneDrive\Рабочий стол\gitrepository\Web_Dev_Rep\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\refint\WebDev.Core.dll
 C:\Users\cuzev\OneDrive\Рабочий стол\gitrepository\Web_Dev_Rep\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.pdb
 C:\Users\cuzev\OneDrive\Рабочий стол\gitrepository\Web_Dev_Rep\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\ref\WebDev.Core.dll
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\bin\Debug\net8.0\WebDev.Core.deps.json
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\bin\Debug\net8.0\WebDev.Core.dll
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\bin\Debug\net8.0\WebDev.Core.pdb
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.AssemblyInfoInputs.cache
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.AssemblyInfo.cs
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.csproj.CoreCompileInputs.cache
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.sourcelink.json
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.dll
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\refint\WebDev.Core.dll
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\WebDev.Core.pdb
+C:\Users\cuzev\Desktop\GitRepository\Web_Dev_rep\Web_development\Web_developing\WebDev.Core\obj\Debug\net8.0\ref\WebDev.Core.dll

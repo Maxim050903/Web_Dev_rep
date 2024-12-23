@@ -1,0 +1,13 @@
+<div class="toolbar">
+  <div class="title">Личный кабинет преподавателя</div>
+</div>
+
+<div class = "task_card__wrapper">
+  @for (discipline of Disciplines; track discipline.id){
+    <app-discipline-card
+    [discipline]="discipline"
+    [TeacherId]="adress"
+    >
+    </app-discipline-card>
+  }
+</div>

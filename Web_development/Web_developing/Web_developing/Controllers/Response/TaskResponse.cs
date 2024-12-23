@@ -9,4 +9,18 @@
         Guid idDiscipline,
         Guid idGroup,
         Guid idTeacher);
+
+    public record TaskResponseForStiudentPage
+    (
+        Guid id,
+        string DisciplineName,
+        DateTime DateFinish,
+        string Description,
+        string TeacherName);
+
+    public record TaskResponseOne
+    (
+        DateTime DateFinish,
+        string Description,
+        string Discipline);
 }

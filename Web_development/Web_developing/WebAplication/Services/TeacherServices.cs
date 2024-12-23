@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Linq;
 using WebDev.Core.Interfaces;
 using WebDev.Core.Models;
+using WebDevDataBase.Repositories;
 
 namespace WebAplication.Services
 {
@@ -18,6 +19,11 @@ namespace WebAplication.Services
             _TeacherRepository = TeacherRepository;
         }
 
+        public async Task<(bool, Guid)> LogInTeacher(ulong Number, string password)
+        {
+            return await _TeacherRepository.LogInTeacher(Number, password);
+        }
+
         public async Task<List<Teacher>> GetAllTeacher()
         {
             return await _TeacherRepository.GetTeachers();
@@ -26,6 +32,11 @@ namespace WebAplication.Services
         public async Task<Guid> CreateTeacher(Teacher teacher)
         {
             return await _TeacherRepository.CreateTeacher(teacher);
+        }
+
+        public async Task<Teacher> GetTeacher(Guid id)
+        {
+            return await _TeacherRepository.GetTeacher(id);
         }
 
         public async Task<Guid> DeleteTeacher(Guid id)

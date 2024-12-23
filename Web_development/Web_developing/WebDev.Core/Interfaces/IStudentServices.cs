@@ -8,5 +8,6 @@ namespace WebAplication.Services
         Task<Guid> DeleteStudent(Guid id);
         Task<List<Student>> GetAllStudents();
         Task<Guid> UpdateStudent(Guid id, string Name, string SecondName, ulong IndividualNumber, string GroupName, string GroupNumber, string Password);
+        Task<(bool,Guid)> LogInStudent(ulong Number, string password);
     }
 }

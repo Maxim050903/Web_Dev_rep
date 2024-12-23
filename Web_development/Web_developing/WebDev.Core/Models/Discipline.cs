@@ -11,19 +11,19 @@ namespace WebDev.Core.Models
         public Guid id { get; }
         public string Name { get; } = string.Empty;
         public Guid idTeacher { get; }
-        public Guid idGroup { get; }
+        public List<Guid> idGroups { get; }
 
         private Discipline(Guid id, string Name
-            , Guid idTeacher, Guid idGroup)
+            , Guid idTeacher, List<Guid> idGroups)
         {
             this.id = id;
             this.Name = Name;
             this.idTeacher = idTeacher;
-            this.idGroup = idGroup;
+            this.idGroups = idGroups;
         }
 
         public static (Discipline discipline, string Error) CreateDiscipline(Guid id, string Name
-            , Guid idTeacher, Guid idGroup)
+            , Guid idTeacher, List<Guid> idGroups)
         {
             var Error = string.Empty;
 
@@ -32,7 +32,7 @@ namespace WebDev.Core.Models
                 Error = "Ошибка введите корректное наименование";
             }
 
-            var discipline= new Discipline(id, Name, idTeacher, idGroup);
+            var discipline= new Discipline(id, Name, idTeacher, idGroups);
 
             return (discipline, Error);
         }

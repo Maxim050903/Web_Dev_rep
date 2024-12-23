@@ -1,0 +1,21 @@
+<body>
+  <div class="toolbar">
+      <div class="title">Страница задачи</div>
+      @if (isTeacher == 'true')
+      {
+        <h3 (click)="onTextClick(adress)">изменить</h3>
+        <h3 (click)="onTextClickDel(adress)">удалить</h3>
+      }
+  </div>
+  <div class="task-page">
+      <label for="subject">Наименование предмета </label>
+      <input type="text" class="input-field" value={{task.discipline}} readonly>
+
+      <label for="due-date">Необходимая дата выполнения </label>
+      <input type="text" class="input-field" value={{task.dateFinish}} readonly>
+
+      <label for="description">Описание задачи </label>
+      <input type="text" class="input-field" value={{task.description}} readonly>
+
+  </div>
+</body>

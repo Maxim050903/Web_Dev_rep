@@ -2,11 +2,15 @@
 {
     public record TaskRequest
     (
-        DateTime DateCreate,
         DateTime DateFinish,
         string Description,
         Guid idDiscipline,
         Guid idGroup,
         Guid idTeacher
+        );
+
+    public record TaskUpdateRequest(
+        DateTime DateFinish,
+        string Description
         );
 }

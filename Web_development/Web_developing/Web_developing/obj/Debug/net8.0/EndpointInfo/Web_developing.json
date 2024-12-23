@@ -5,7 +5,53 @@
     "version": "1.0"
   },
   "paths": {
-    "/Discipline": {
+    "/Auth": {
+      "get": {
+        "tags": [
+          "Auth"
+        ],
+        "parameters": [
+          {
+            "name": "IndividualNumber",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          },
+          {
+            "name": "password",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/AuthResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AuthResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AuthResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Discipline/{idTeacher}": {
       "get": {
         "tags": [
           "Discipline"
@@ -13,7 +59,8 @@
         "parameters": [
           {
             "name": "idTeacher",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -51,7 +98,9 @@
             }
           }
         }
-      },
+      }
+    },
+    "/Discipline": {
       "post": {
         "tags": [
           "Discipline"
@@ -573,6 +622,86 @@
         }
       }
     },
+    "/Task/{idTask}": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "idTask",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/bydiscipline/{idDiscipline}": {
+      "get": {
+        "tags": [
+          "Task"
+        ],
+        "parameters": [
+          {
+            "name": "idDiscipline",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TaskResponseOne"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/Task": {
       "get": {
         "tags": [
@@ -580,7 +709,7 @@
         ],
         "parameters": [
           {
-            "name": "idGroup",
+            "name": "StudentId",
             "in": "query",
             "schema": {
               "type": "string",
@@ -596,7 +725,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/TaskResponse"
+                    "$ref": "#/components/schemas/TaskResponseForStiudentPage"
                   }
                 }
               },
@@ -604,7 +733,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/TaskResponse"
+                    "$ref": "#/components/schemas/TaskResponseForStiudentPage"
                   }
                 }
               },
@@ -612,14 +741,16 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/TaskResponse"
+                    "$ref": "#/components/schemas/TaskResponseForStiudentPage"
                   }
                 }
               }
             }
           }
         }
-      },
+      }
+    },
+    "/createTask": {
       "post": {
         "tags": [
           "Task"
@@ -668,7 +799,9 @@
             }
           }
         }
-      },
+      }
+    },
+    "/Task/{update_id}": {
       "put": {
         "tags": [
           "Task"
@@ -676,7 +809,8 @@
         "parameters": [
           {
             "name": "update_id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -687,17 +821,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/TaskRequest"
+                "$ref": "#/components/schemas/TaskUpdateRequest"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/TaskRequest"
+                "$ref": "#/components/schemas/TaskUpdateRequest"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/TaskRequest"
+                "$ref": "#/components/schemas/TaskUpdateRequest"
               }
             }
           }
@@ -727,7 +861,9 @@
             }
           }
         }
-      },
+      }
+    },
+    "/Task/{delete_id}": {
       "delete": {
         "tags": [
           "Task"
@@ -735,7 +871,8 @@
         "parameters": [
           {
             "name": "delete_id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "string",
               "format": "uuid"
@@ -958,6 +1095,20 @@
   },
   "components": {
     "schemas": {
+      "AuthResponse": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      },
       "DisciplineRequest": {
         "type": "object",
         "properties": {
@@ -970,8 +1121,12 @@
             "format": "uuid"
           },
           "idGroup": {
-            "type": "string",
-            "format": "uuid"
+            "type": "array",
+            "items": {
+              "type": "string",
+              "format": "uuid"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -991,9 +1146,12 @@
             "type": "string",
             "format": "uuid"
           },
-          "idGroup": {
-            "type": "string",
-            "format": "uuid"
+          "groups": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -1101,10 +1259,6 @@
       "TaskRequest": {
         "type": "object",
         "properties": {
-          "dateCreate": {
-            "type": "string",
-            "format": "date-time"
-          },
           "dateFinish": {
             "type": "string",
             "format": "date-time"
@@ -1128,16 +1282,16 @@
         },
         "additionalProperties": false
       },
-      "TaskResponse": {
+      "TaskResponseForStiudentPage": {
         "type": "object",
         "properties": {
           "id": {
             "type": "string",
             "format": "uuid"
           },
-          "dareCreate": {
+          "disciplineName": {
             "type": "string",
-            "format": "date-time"
+            "nullable": true
           },
           "dateFinish": {
             "type": "string",
@@ -1147,17 +1301,41 @@
             "type": "string",
             "nullable": true
           },
-          "idDiscipline": {
+          "teacherName": {
             "type": "string",
-            "format": "uuid"
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TaskResponseOne": {
+        "type": "object",
+        "properties": {
+          "dateFinish": {
+            "type": "string",
+            "format": "date-time"
           },
-          "idGroup": {
+          "description": {
             "type": "string",
-            "format": "uuid"
+            "nullable": true
           },
-          "idTeacher": {
+          "discipline": {
             "type": "string",
-            "format": "uuid"
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TaskUpdateRequest": {
+        "type": "object",
+        "properties": {
+          "dateFinish": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "description": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

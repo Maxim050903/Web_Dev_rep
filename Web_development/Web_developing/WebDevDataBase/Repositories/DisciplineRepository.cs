@@ -21,10 +21,21 @@ namespace WebDevDataBase.Repositories
                 .ToListAsync();
 
             var Disciplines = DisciplineEntities
-                .Select(x => Discipline.CreateDiscipline(x.id, x.Name, x.idTeacher, x.idGroup).discipline).ToList();
+                .Select(x => Discipline.CreateDiscipline(x.id, x.Name, x.idTeacher, x.idGroups).discipline).ToList();
 
             return Disciplines;
         }
+
+        public async Task<Discipline> GetDisciplinesForId(Guid id)
+        {
+            var DisciplineEntities = await _context.Disciplines
+                .FirstOrDefaultAsync(x => x.id == id);
+
+            var Disciplines = Discipline.CreateDiscipline(DisciplineEntities.id, DisciplineEntities.Name, DisciplineEntities.idTeacher, DisciplineEntities.idGroups).discipline;
+
+            return Disciplines;
+        }
+
 
         public async Task<Guid> CreateDiscepline(Discipline discipline)
         {
@@ -33,7 +44,7 @@ namespace WebDevDataBase.Repositories
                 id = discipline.id,
                 Name = discipline.Name,
                 idTeacher = discipline.idTeacher,
-                idGroup = discipline.idGroup,
+                idGroups = discipline.idGroups,
             };
 
             await _context.Disciplines.AddAsync(Discipline_Entity);
@@ -42,13 +53,13 @@ namespace WebDevDataBase.Repositories
             return Discipline_Entity.id;
         }
 
-        public async Task<Guid> UpdateDiscepline(Guid id, Guid idTeacher, Guid idGroup, string Name)
+        public async Task<Guid> UpdateDiscepline(Guid id, Guid idTeacher, List<Guid> idGroups, string Name)
         {
             await _context.Disciplines
                 .Where(x => x.id == id)
                 .ExecuteUpdateAsync(t => t
                 .SetProperty(b => b.idTeacher,idTeacher)
-                .SetProperty(b => b.idGroup, idGroup)
+                .SetProperty(b => b.idGroups, idGroups)
                 .SetProperty(b => b.Name, Name));
             
             await _context.SaveChangesAsync();

@@ -1,0 +1,19 @@
+<div class="toolbar">
+  <div class="title">{{Headerstr}}</div>
+  @if (isTeacher == 'true')
+      {
+        <h3 (click)="onTextClick()">добавить</h3>
+      }
+  <div class="links">
+  </div>
+</div>
+
+<div class = "task_card__wrapper">
+  @for (task of Tasks; track task.id){
+    <app-task-card
+    [task]="task"
+    [TeacherId]="TeacherId"
+    >
+    </app-task-card>
+  }
+</div>

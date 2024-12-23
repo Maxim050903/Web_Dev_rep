@@ -5,5 +5,5 @@
         Guid id,
         string Name,
         Guid idTeacher,
-        Guid idGroup);
+        List<string> Groups);
 }

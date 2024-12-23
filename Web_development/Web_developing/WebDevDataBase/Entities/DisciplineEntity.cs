@@ -11,6 +11,6 @@ namespace WebDevDataBase.Entities
         public Guid id { get; set;  }
         public string Name { get; set;  } = string.Empty;
         public Guid idTeacher { get; set;  }
-        public Guid idGroup { get; set; }
+        public List<Guid> idGroups { get; set; }
     }
 }
